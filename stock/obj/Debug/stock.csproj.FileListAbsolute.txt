@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\stock\bin\Debug\stock.exe.config
+C:\Users\Student\Desktop\stock\bin\Debug\stock.exe
+C:\Users\Student\Desktop\stock\bin\Debug\stock.pdb
+C:\Users\Student\Desktop\stock\obj\Debug\stock.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\stock\obj\Debug\stock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\stock\obj\Debug\stock.Form1.resources
+C:\Users\Student\Desktop\stock\obj\Debug\stock.Properties.Resources.resources
+C:\Users\Student\Desktop\stock\obj\Debug\stock.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\stock\obj\Debug\stock.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\stock\obj\Debug\stock.exe
+C:\Users\Student\Desktop\stock\obj\Debug\stock.pdb
