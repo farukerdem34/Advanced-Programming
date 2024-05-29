@@ -1,4 +1,7 @@
 # Advanced Programming
+## TO-DO
+* [ ] Brick Game
+* [ ] Multi Form App
 
 ## Database Integration Vitals 
 
