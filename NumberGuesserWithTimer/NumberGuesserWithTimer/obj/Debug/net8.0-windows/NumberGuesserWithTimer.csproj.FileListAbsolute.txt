@@ -1,0 +1,16 @@
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\bin\Debug\net8.0-windows\NumberGuesserWithTimer.exe
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\bin\Debug\net8.0-windows\NumberGuesserWithTimer.deps.json
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\bin\Debug\net8.0-windows\NumberGuesserWithTimer.runtimeconfig.json
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\bin\Debug\net8.0-windows\NumberGuesserWithTimer.dll
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\bin\Debug\net8.0-windows\NumberGuesserWithTimer.pdb
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.Form1.resources
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.csproj.GenerateResource.cache
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.AssemblyInfoInputs.cache
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.AssemblyInfo.cs
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.dll
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\refint\NumberGuesserWithTimer.dll
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.pdb
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\NumberGuesserWithTimer.genruntimeconfig.cache
+C:\Users\faruk\Desktop\VİsualC#Apps\NumberGuesserWithTimer\NumberGuesserWithTimer\obj\Debug\net8.0-windows\ref\NumberGuesserWithTimer.dll
