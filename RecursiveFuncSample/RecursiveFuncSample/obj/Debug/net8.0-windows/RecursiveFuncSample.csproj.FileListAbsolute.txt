@@ -1,0 +1,17 @@
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.Form1.resources
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.csproj.GenerateResource.cache
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.AssemblyInfoInputs.cache
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.AssemblyInfo.cs
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.sourcelink.json
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\bin\Debug\net8.0-windows\RecursiveFuncSample.exe
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\bin\Debug\net8.0-windows\RecursiveFuncSample.deps.json
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\bin\Debug\net8.0-windows\RecursiveFuncSample.runtimeconfig.json
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\bin\Debug\net8.0-windows\RecursiveFuncSample.dll
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\bin\Debug\net8.0-windows\RecursiveFuncSample.pdb
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.dll
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\refint\RecursiveFuncSample.dll
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.pdb
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\RecursiveFuncSample.genruntimeconfig.cache
+C:\Users\faruk\Desktop\Advanced-Programming\RecursiveFuncSample\RecursiveFuncSample\obj\Debug\net8.0-windows\ref\RecursiveFuncSample.dll
