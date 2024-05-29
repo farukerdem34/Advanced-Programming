@@ -14,7 +14,7 @@ using System.Data.SqlClient;
 SqlConnection conn;
 SqlDataAdapter adapter;
 SqlCommand cmd;
-string conn_string = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=picture_db;Integrated Security=True;";
+string conn_string = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=db_name_here;Integrated Security=True;";
 ```
 
 ```C#
@@ -23,14 +23,10 @@ void view_data()
         {
             conn = new SqlConnection(conn_string);
             conn.Open();
-            adapter = new SqlDataAdapter("SELECT * FROM p_table", conn);
+            adapter = new SqlDataAdapter("SELECT * FROM [db_name_here]", conn);
             DataTable dt = new DataTable();
             adapter.Fill(dt);
             dataGridView1.DataSource = dt;
-            dataGridView1.Columns[3].Visible = false;
-            dataGridView1.Columns[4].Visible = false;
-            dataGridView1.Columns[5].Visible = false;
-            dataGridView1.Columns[6].Visible = false;
             conn.Close();
         }
 ```
